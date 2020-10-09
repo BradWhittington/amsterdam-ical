@@ -8,24 +8,9 @@ X-WR-CALNAME:Weather
 X-WR-CALDESC:Display yr.no weather forecasts in Google Calendar.
 X-LOTUS-CHARSET:UTF-8
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20201008
-DTEND;VALUE=DATE:20201009
-DTSTAMP:20201008T050003Z
-UID:Permanent-Weather-20201008-20150410T000000Z
-CLASS:PUBLIC
-CREATED:20150410T000000Z
-LOCATION:South_Africa, Western_Cape, Muizenberg
-LAST-MODIFIED:20150410T000000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-DESCRIPTION:05:00\nTemperature: 14 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 3.3 m/s from S\nPressure: 1014.7 hPa\n\n06:00\nTemperature: 13 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 3.1 m/s from S\nPressure: 1015.1 hPa\n\n12:00\nTemperature: 17 °C\nPrecipitation: 0.5 mm\nConditions: Partly cloudy\nWind: 2.9 m/s from SSW\nPressure: 1015.7 hPa\n\n18:00\nTemperature: 14 °C\nPrecipitation: 0.4 mm\nConditions: Cloudy\nWind: 9.7 m/s from S\nPressure: 1015.8 hPa\n\n
-SUMMARY:☔ 17|13 0.9㎜ 9.7⇶
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201009
 DTEND;VALUE=DATE:20201010
-DTSTAMP:20201008T050003Z
+DTSTAMP:20201009T050005Z
 UID:Permanent-Weather-20201009-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -33,14 +18,14 @@ LOCATION:South_Africa, Western_Cape, Muizenberg
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:00:00\nTemperature: 13 °C\nPrecipitation: 0.2 mm\nConditions: Partly cloudy\nWind: 5.5 m/s from SSE\nPressure: 1019.3 hPa\n\n06:00\nTemperature: 12 °C\nPrecipitation: 1.3 mm\nConditions: Rain showers\nWind: 6.1 m/s from S\nPressure: 1019.9 hPa\n\n12:00\nTemperature: 13 °C\nPrecipitation: 0.7 mm\nConditions: Light rain showers\nWind: 8.3 m/s from SSE\nPressure: 1022.5 hPa\n\n18:00\nTemperature: 14 °C\nPrecipitation: 0.1 mm\nConditions: Fair\nWind: 9.0 m/s from SSE\nPressure: 1023.9 hPa\n\n
-SUMMARY:☔ 14|12 2.3㎜ 9.0⇶
+DESCRIPTION:05:00\nTemperature: 13 °C\nPrecipitation: 0 mm\nConditions: Cloudy\nWind: 4.6 m/s from S\nPressure: 1018.4 hPa\n\n06:00\nTemperature: 12 °C\nPrecipitation: 2.6 mm\nConditions: Rain showers\nWind: 6.0 m/s from S\nPressure: 1019.0 hPa\n\n12:00\nTemperature: 13 °C\nPrecipitation: 2.3 mm\nConditions: Rain showers\nWind: 7.2 m/s from SSE\nPressure: 1021.9 hPa\n\n18:00\nTemperature: 12 °C\nPrecipitation: 1.0 mm\nConditions: Rain showers\nWind: 8.3 m/s from SSE\nPressure: 1024.1 hPa\n\n
+SUMMARY:☔ 13|12 5.9㎜ 8.3⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201010
 DTEND;VALUE=DATE:20201011
-DTSTAMP:20201008T050003Z
+DTSTAMP:20201009T050005Z
 UID:Permanent-Weather-20201010-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -48,14 +33,14 @@ LOCATION:South_Africa, Western_Cape, Muizenberg
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:00:00\nTemperature: 12 °C\nPrecipitation: 0.4 mm\nConditions: Fair\nWind: 6.2 m/s from SE\nPressure: 1027.4 hPa\n\n06:00\nTemperature: 12 °C\nPrecipitation: 0.1 mm\nConditions: Fair\nWind: 6.5 m/s from SE\nPressure: 1028.0 hPa\n\n12:00\nTemperature: 15 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 7.8 m/s from SE\nPressure: 1029.3 hPa\n\n20:00\nTemperature: 13 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 8.4 m/s from SE\nPressure: 1028.1 hPa\n\n
-SUMMARY:☔ 15|12 0.5㎜ 8.4⇶
+DESCRIPTION:00:00\nTemperature: 12 °C\nPrecipitation: 0.9 mm\nConditions: Light rain showers\nWind: 6.8 m/s from SE\nPressure: 1026.9 hPa\n\n06:00\nTemperature: 12 °C\nPrecipitation: 0.2 mm\nConditions: Fair\nWind: 6.4 m/s from SE\nPressure: 1027.9 hPa\n\n12:00\nTemperature: 15 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 7.6 m/s from SE\nPressure: 1029.1 hPa\n\n18:00\nTemperature: 14 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 8.7 m/s from SE\nPressure: 1027.3 hPa\n\n
+SUMMARY:☔ 15|12 1.1㎜ 8.7⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201011
 DTEND;VALUE=DATE:20201012
-DTSTAMP:20201008T050003Z
+DTSTAMP:20201009T050005Z
 UID:Permanent-Weather-20201011-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -63,14 +48,14 @@ LOCATION:South_Africa, Western_Cape, Muizenberg
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:02:00\nTemperature: 12 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 5.6 m/s from SE\nPressure: 1026.0 hPa\n\n08:00\nTemperature: 13 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 5.2 m/s from SE\nPressure: 1025.2 hPa\n\n14:00\nTemperature: 18 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 4.7 m/s from SSE\nPressure: 1020.6 hPa\n\n20:00\nTemperature: 15 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 4.7 m/s from SE\nPressure: 1018.6 hPa\n\n
-SUMMARY:☀ 18|12 0㎜ 5.6⇶
+DESCRIPTION:00:00\nTemperature: 12 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 7.3 m/s from ESE\nPressure: 1027.2 hPa\n\n06:00\nTemperature: 11 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 4.2 m/s from SE\nPressure: 1024.7 hPa\n\n12:00\nTemperature: 17 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.1 m/s from SSE\nPressure: 1024.0 hPa\n\n20:00\nTemperature: 16 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 4.8 m/s from SE\nPressure: 1019.6 hPa\n\n
+SUMMARY:☀ 17|11 0㎜ 7.3⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201012
 DTEND;VALUE=DATE:20201013
-DTSTAMP:20201008T050003Z
+DTSTAMP:20201009T050005Z
 UID:Permanent-Weather-20201012-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -78,14 +63,14 @@ LOCATION:South_Africa, Western_Cape, Muizenberg
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:02:00\nTemperature: 13 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 1.2 m/s from WSW\nPressure: 1015.6 hPa\n\n08:00\nTemperature: 15 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 2.7 m/s from NW\nPressure: 1014.4 hPa\n\n14:00\nTemperature: 18 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 5.3 m/s from W\nPressure: 1013.5 hPa\n\n20:00\nTemperature: 14 °C\nPrecipitation: 0.9 mm\nConditions: Light rain showers\nWind: 3.1 m/s from WNW\nPressure: 1014.6 hPa\n\n
-SUMMARY:☔ 18|13 0.9㎜ 5.3⇶
+DESCRIPTION:02:00\nTemperature: 13 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 0.7 m/s from SSE\nPressure: 1017.0 hPa\n\n08:00\nTemperature: 15 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.5 m/s from NW\nPressure: 1016.0 hPa\n\n14:00\nTemperature: 19 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 4.0 m/s from WNW\nPressure: 1015.0 hPa\n\n20:00\nTemperature: 14 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 1.7 m/s from WNW\nPressure: 1016.2 hPa\n\n
+SUMMARY:☀ 19|13 0㎜ 4.0⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201013
 DTEND;VALUE=DATE:20201014
-DTSTAMP:20201008T050003Z
+DTSTAMP:20201009T050005Z
 UID:Permanent-Weather-20201013-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -93,14 +78,14 @@ LOCATION:South_Africa, Western_Cape, Muizenberg
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:02:00\nTemperature: 15 °C\nPrecipitation: 1.1 mm\nConditions: Rain showers\nWind: 3.3 m/s from NW\nPressure: 1015.8 hPa\n\n08:00\nTemperature: 14 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 3.7 m/s from SSW\nPressure: 1018.2 hPa\n\n14:00\nTemperature: 16 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 2.9 m/s from SSW\nPressure: 1018.7 hPa\n\n20:00\nTemperature: 13 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 4.0 m/s from SSE\nPressure: 1019.5 hPa\n\n
-SUMMARY:☔ 16|13 1.1㎜ 4.0⇶
+DESCRIPTION:02:00\nTemperature: 14 °C\nPrecipitation: 0.7 mm\nConditions: Light rain\nWind: 2.0 m/s from NW\nPressure: 1018.0 hPa\n\n08:00\nTemperature: 15 °C\nPrecipitation: 0.6 mm\nConditions: Light rain\nWind: 3.0 m/s from NNW\nPressure: 1019.4 hPa\n\n14:00\nTemperature: 18 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.0 m/s from WSW\nPressure: 1018.6 hPa\n\n20:00\nTemperature: 15 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 2.8 m/s from S\nPressure: 1018.6 hPa\n\n
+SUMMARY:☔ 18|14 1.3㎜ 3.0⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201014
 DTEND;VALUE=DATE:20201015
-DTSTAMP:20201008T050003Z
+DTSTAMP:20201009T050005Z
 UID:Permanent-Weather-20201014-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -108,14 +93,14 @@ LOCATION:South_Africa, Western_Cape, Muizenberg
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:02:00\nTemperature: 12 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 3.9 m/s from SSE\nPressure: 1017.5 hPa\n\n08:00\nTemperature: 14 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 3.3 m/s from SE\nPressure: 1016.7 hPa\n\n14:00\nTemperature: 19 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 1.9 m/s from S\nPressure: 1012.7 hPa\n\n20:00\nTemperature: 16 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 1.8 m/s from SW\nPressure: 1011.9 hPa\n\n
-SUMMARY:☀ 19|12 0㎜ 3.9⇶
+DESCRIPTION:02:00\nTemperature: 14 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.4 m/s from SSW\nPressure: 1016.5 hPa\n\n08:00\nTemperature: 14 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 1.9 m/s from WNW\nPressure: 1017.1 hPa\n\n14:00\nTemperature: 18 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 5.1 m/s from W\nPressure: 1017.0 hPa\n\n20:00\nTemperature: 16 °C\nPrecipitation: 0.4 mm\nConditions: Cloudy\nWind: 1.6 m/s from W\nPressure: 1019.1 hPa\n\n
+SUMMARY:☔ 18|14 0.4㎜ 5.1⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201015
 DTEND;VALUE=DATE:20201016
-DTSTAMP:20201008T050003Z
+DTSTAMP:20201009T050005Z
 UID:Permanent-Weather-20201015-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -123,14 +108,14 @@ LOCATION:South_Africa, Western_Cape, Muizenberg
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:02:00\nTemperature: 13 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 2.2 m/s from WNW\nPressure: 1011.5 hPa\n\n08:00\nTemperature: 16 °C\nPrecipitation: 0.2 mm\nConditions: Partly cloudy\nWind: 4.2 m/s from NW\nPressure: 1013.3 hPa\n\n14:00\nTemperature: 18 °C\nPrecipitation: 0.2 mm\nConditions: Partly cloudy\nWind: 5.5 m/s from WNW\nPressure: 1014.0 hPa\n\n20:00\nTemperature: 15 °C\nPrecipitation: 1.0 mm\nConditions: Rain showers\nWind: 2.1 m/s from S\nPressure: 1016.0 hPa\n\n
-SUMMARY:☔ 18|13 1.4㎜ 5.5⇶
+DESCRIPTION:02:00\nTemperature: 15 °C\nPrecipitation: 0 mm\nConditions: Cloudy\nWind: 7.6 m/s from SSE\nPressure: 1021.5 hPa\n\n08:00\nTemperature: 15 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 8.9 m/s from SE\nPressure: 1023.0 hPa\n\n14:00\nTemperature: 15 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 9.9 m/s from SSE\nPressure: 1022.1 hPa\n\n20:00\nTemperature: 14 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 8.4 m/s from SSE\nPressure: 1023.0 hPa\n\n
+SUMMARY:☀ 15|14 0㎜ 9.9⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201016
 DTEND;VALUE=DATE:20201017
-DTSTAMP:20201008T050003Z
+DTSTAMP:20201009T050005Z
 UID:Permanent-Weather-20201016-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -138,14 +123,14 @@ LOCATION:South_Africa, Western_Cape, Muizenberg
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:02:00\nTemperature: 14 °C\nPrecipitation: 4.9 mm\nConditions: Rain showers\nWind: 4.0 m/s from SE\nPressure: 1015.7 hPa\n\n08:00\nTemperature: 13 °C\nPrecipitation: 13.4 mm\nConditions: Heavy rain\nWind: 5.9 m/s from SSE\nPressure: 1017.7 hPa\n\n14:00\nTemperature: 14 °C\nPrecipitation: 0.2 mm\nConditions: Partly cloudy\nWind: 6.7 m/s from S\nPressure: 1020.8 hPa\n\n20:00\nTemperature: 13 °C\nPrecipitation: 0.5 mm\nConditions: Light rain showers\nWind: 5.6 m/s from SSE\nPressure: 1024.4 hPa\n\n
-SUMMARY:☔ 14|13 19㎜ 6.7⇶
+DESCRIPTION:02:00\nTemperature: 13 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 8.0 m/s from SSE\nPressure: 1022.9 hPa\n\n08:00\nTemperature: 13 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 9.2 m/s from SE\nPressure: 1023.1 hPa\n\n14:00\nTemperature: 15 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 10.6 m/s from SSE\nPressure: 1019.0 hPa\n\n20:00\nTemperature: 15 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 9.7 m/s from SSE\nPressure: 1016.3 hPa\n\n
+SUMMARY:☀ 15|13 0㎜ 10.6⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201017
 DTEND;VALUE=DATE:20201018
-DTSTAMP:20201008T050003Z
+DTSTAMP:20201009T050005Z
 UID:Permanent-Weather-20201017-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -153,8 +138,23 @@ LOCATION:South_Africa, Western_Cape, Muizenberg
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:02:00\nTemperature: 13 °C\nPrecipitation: 0.2 mm\nConditions: Partly cloudy\nWind: 4.8 m/s from SE\nPressure: 1025.1 hPa\n\n
-SUMMARY:☔ 13|13 0.2㎜ 4.8⇶
+DESCRIPTION:02:00\nTemperature: 13 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 6.8 m/s from SSE\nPressure: 1012.6 hPa\n\n08:00\nTemperature: 15 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 8.8 m/s from SSE\nPressure: 1016.6 hPa\n\n14:00\nTemperature: 17 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 7.4 m/s from SSE\nPressure: 1017.4 hPa\n\n20:00\nTemperature: 15 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 6.5 m/s from S\nPressure: 1020.3 hPa\n\n
+SUMMARY:☀ 17|13 0㎜ 8.8⇶
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201018
+DTEND;VALUE=DATE:20201019
+DTSTAMP:20201009T050005Z
+UID:Permanent-Weather-20201018-20150410T000000Z
+CLASS:PUBLIC
+CREATED:20150410T000000Z
+LOCATION:South_Africa, Western_Cape, Muizenberg
+LAST-MODIFIED:20150410T000000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+DESCRIPTION:02:00\nTemperature: 14 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 5.1 m/s from SSE\nPressure: 1019.8 hPa\n\n
+SUMMARY:☀ 14|14 0㎜ 5.1⇶
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
