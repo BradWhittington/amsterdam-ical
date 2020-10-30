@@ -1,1 +1,1 @@
-# muizenberg-ical
+# amsterdam-ical
