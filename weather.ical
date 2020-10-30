@@ -10,151 +10,151 @@ X-LOTUS-CHARSET:UTF-8
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201030
 DTEND;VALUE=DATE:20201031
-DTSTAMP:20201030T050002Z
+DTSTAMP:20201030T101119Z
 UID:Permanent-Weather-20201030-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
-LOCATION:South_Africa, Western_Cape, Muizenberg
+LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:06:00\nTemperature: 11 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 3.3 m/s from S\nPressure: 1027.3 hPa\n\n12:00\nTemperature: 16 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 6.1 m/s from SSE\nPressure: 1029.1 hPa\n\n18:00\nTemperature: 15 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 8.0 m/s from SSE\nPressure: 1027.4 hPa\n\n
-SUMMARY:☀ 16|11 0㎜ 8.0⇶
+DESCRIPTION:09:00\nTemperature: 14 °C\nPrecipitation: 0.3 mm\nConditions: Rain\nWind: 7.4 m/s from WSW\nPressure: 1014.7 hPa\n\n12:00\nTemperature: 15 °C\nPrecipitation: 1.6 mm\nConditions: Rain\nWind: 7.8 m/s from WSW\nPressure: 1016.1 hPa\n\n18:00\nTemperature: 15 °C\nPrecipitation: 0.4 mm\nConditions: Cloudy\nWind: 6.4 m/s from WSW\nPressure: 1018.3 hPa\n\n
+SUMMARY:☔ 15|14 2.3㎜ 7.8⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201031
 DTEND;VALUE=DATE:20201101
-DTSTAMP:20201030T050002Z
+DTSTAMP:20201030T101119Z
 UID:Permanent-Weather-20201031-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
-LOCATION:South_Africa, Western_Cape, Muizenberg
+LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:00:00\nTemperature: 14 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 8.9 m/s from SE\nPressure: 1028.0 hPa\n\n06:00\nTemperature: 13 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 8.6 m/s from SE\nPressure: 1025.8 hPa\n\n12:00\nTemperature: 17 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 10.0 m/s from SSE\nPressure: 1023.5 hPa\n\n18:00\nTemperature: 16 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 10.4 m/s from SSE\nPressure: 1021.2 hPa\n\n
-SUMMARY:☀ 17|13 0㎜ 10.4⇶
+DESCRIPTION:00:00\nTemperature: 15 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 6.0 m/s from SW\nPressure: 1020.4 hPa\n\n06:00\nTemperature: 12 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 4.9 m/s from SSW\nPressure: 1019.2 hPa\n\n12:00\nTemperature: 15 °C\nPrecipitation: 0.4 mm\nConditions: Partly cloudy\nWind: 7.3 m/s from S\nPressure: 1016.0 hPa\n\n18:00\nTemperature: 14 °C\nPrecipitation: 3.3 mm\nConditions: Rain\nWind: 7.6 m/s from S\nPressure: 1010.3 hPa\n\n
+SUMMARY:☔ 15|12 3.7㎜ 7.6⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201101
 DTEND;VALUE=DATE:20201102
-DTSTAMP:20201030T050002Z
+DTSTAMP:20201030T101119Z
 UID:Permanent-Weather-20201101-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
-LOCATION:South_Africa, Western_Cape, Muizenberg
+LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:00:00\nTemperature: 15 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 9.1 m/s from SSE\nPressure: 1021.2 hPa\n\n06:00\nTemperature: 15 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 5.1 m/s from SSE\nPressure: 1017.1 hPa\n\n12:00\nTemperature: 21 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 7.3 m/s from SSE\nPressure: 1015.3 hPa\n\n20:00\nTemperature: 18 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 8.1 m/s from SSE\nPressure: 1013.5 hPa\n\n
-SUMMARY:☀ 21|15 0㎜ 9.1⇶
+DESCRIPTION:00:00\nTemperature: 12 °C\nPrecipitation: 0 mm\nConditions: Cloudy\nWind: 5.5 m/s from SW\nPressure: 1011.6 hPa\n\n06:00\nTemperature: 11 °C\nPrecipitation: 1.7 mm\nConditions: Rain\nWind: 4.8 m/s from SSW\nPressure: 1010.4 hPa\n\n12:00\nTemperature: 12 °C\nPrecipitation: 1.1 mm\nConditions: Rain\nWind: 6.3 m/s from S\nPressure: 1006.3 hPa\n\n19:00\nTemperature: 14 °C\nPrecipitation: 0.3 mm\nConditions: Cloudy\nWind: 7.6 m/s from SW\nPressure: 1006.1 hPa\n\n
+SUMMARY:☔ 14|11 3.1㎜ 7.6⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201102
 DTEND;VALUE=DATE:20201103
-DTSTAMP:20201030T050002Z
+DTSTAMP:20201030T101119Z
 UID:Permanent-Weather-20201102-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
-LOCATION:South_Africa, Western_Cape, Muizenberg
+LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:02:00\nTemperature: 16 °C\nPrecipitation: 0.2 mm\nConditions: Partly cloudy\nWind: 6.1 m/s from SSE\nPressure: 1011.4 hPa\n\n08:00\nTemperature: 17 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 4.2 m/s from SE\nPressure: 1010.6 hPa\n\n14:00\nTemperature: 21 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 5.9 m/s from SSE\nPressure: 1009.0 hPa\n\n20:00\nTemperature: 18 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 7.3 m/s from SSE\nPressure: 1009.4 hPa\n\n
-SUMMARY:☔ 21|16 0.2㎜ 7.3⇶
+DESCRIPTION:01:00\nTemperature: 15 °C\nPrecipitation: 0.7 mm\nConditions: Light rain\nWind: 8.5 m/s from SSW\nPressure: 1005.0 hPa\n\n07:00\nTemperature: 17 °C\nPrecipitation: 0.1 mm\nConditions: Cloudy\nWind: 9.2 m/s from SSW\nPressure: 1002.8 hPa\n\n13:00\nTemperature: 18 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 13.9 m/s from SW\nPressure: 1003.4 hPa\n\n19:00\nTemperature: 13 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 8.2 m/s from WSW\nPressure: 1011.4 hPa\n\n
+SUMMARY:☔ 18|13 0.8㎜ 13.9⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201103
 DTEND;VALUE=DATE:20201104
-DTSTAMP:20201030T050002Z
+DTSTAMP:20201030T101119Z
 UID:Permanent-Weather-20201103-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
-LOCATION:South_Africa, Western_Cape, Muizenberg
+LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:02:00\nTemperature: 17 °C\nPrecipitation: 0.1 mm\nConditions: Fair\nWind: 7.8 m/s from SSE\nPressure: 1009.0 hPa\n\n08:00\nTemperature: 18 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 7.7 m/s from SSE\nPressure: 1011.1 hPa\n\n14:00\nTemperature: 20 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 7.6 m/s from SSE\nPressure: 1011.4 hPa\n\n20:00\nTemperature: 17 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 7.3 m/s from SSE\nPressure: 1011.7 hPa\n\n
-SUMMARY:☔ 20|17 0.1㎜ 7.8⇶
+DESCRIPTION:01:00\nTemperature: 11 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 6.8 m/s from WSW\nPressure: 1016.1 hPa\n\n07:00\nTemperature: 9 °C\nPrecipitation: 0.4 mm\nConditions: Partly cloudy\nWind: 4.0 m/s from WSW\nPressure: 1019.1 hPa\n\n13:00\nTemperature: 11 °C\nPrecipitation: 1.0 mm\nConditions: Rain showers\nWind: 5.9 m/s from SSW\nPressure: 1018.9 hPa\n\n19:00\nTemperature: 8 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 3.6 m/s from WSW\nPressure: 1021.9 hPa\n\n
+SUMMARY:☔ 11|8 1.4㎜ 6.8⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201104
 DTEND;VALUE=DATE:20201105
-DTSTAMP:20201030T050002Z
+DTSTAMP:20201030T101119Z
 UID:Permanent-Weather-20201104-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
-LOCATION:South_Africa, Western_Cape, Muizenberg
+LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:02:00\nTemperature: 17 °C\nPrecipitation: 0.9 mm\nConditions: Light rain\nWind: 8.3 m/s from SSE\nPressure: 1012.8 hPa\n\n08:00\nTemperature: 17 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 8.0 m/s from SSE\nPressure: 1015.3 hPa\n\n14:00\nTemperature: 18 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 10.1 m/s from SSE\nPressure: 1013.4 hPa\n\n20:00\nTemperature: 17 °C\nPrecipitation: 0 mm\nConditions: Cloudy\nWind: 10.2 m/s from SE\nPressure: 1013.0 hPa\n\n
-SUMMARY:☔ 18|17 0.9㎜ 10.2⇶
+DESCRIPTION:01:00\nTemperature: 7 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 3.3 m/s from SSW\nPressure: 1023.1 hPa\n\n07:00\nTemperature: 6 °C\nPrecipitation: 0.1 mm\nConditions: Fair\nWind: 2.8 m/s from SSW\nPressure: 1024.2 hPa\n\n13:00\nTemperature: 10 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 3.1 m/s from W\nPressure: 1028.2 hPa\n\n19:00\nTemperature: 6 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 1.6 m/s from NNW\nPressure: 1032.1 hPa\n\n
+SUMMARY:☔ 10|6 0.1㎜ 3.3⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201105
 DTEND;VALUE=DATE:20201106
-DTSTAMP:20201030T050002Z
+DTSTAMP:20201030T101119Z
 UID:Permanent-Weather-20201105-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
-LOCATION:South_Africa, Western_Cape, Muizenberg
+LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:02:00\nTemperature: 17 °C\nPrecipitation: 0 mm\nConditions: Cloudy\nWind: 7.4 m/s from SSE\nPressure: 1009.7 hPa\n\n08:00\nTemperature: 18 °C\nPrecipitation: 0 mm\nConditions: Cloudy\nWind: 4.4 m/s from SE\nPressure: 1009.0 hPa\n\n14:00\nTemperature: 20 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 5.0 m/s from S\nPressure: 1007.2 hPa\n\n20:00\nTemperature: 17 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 3.7 m/s from SSW\nPressure: 1008.0 hPa\n\n
-SUMMARY:☀ 20|17 0㎜ 7.4⇶
+DESCRIPTION:01:00\nTemperature: 4 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 1.1 m/s from NW\nPressure: 1036.2 hPa\n\n07:00\nTemperature: 0 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 1.4 m/s from NE\nPressure: 1038.7 hPa\n\n13:00\nTemperature: 10 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 1.7 m/s from ENE\nPressure: 1040.5 hPa\n\n19:00\nTemperature: 6 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 2.5 m/s from ENE\nPressure: 1039.7 hPa\n\n
+SUMMARY:⛄ 10|0 0㎜ 2.5⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201106
 DTEND;VALUE=DATE:20201107
-DTSTAMP:20201030T050002Z
+DTSTAMP:20201030T101119Z
 UID:Permanent-Weather-20201106-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
-LOCATION:South_Africa, Western_Cape, Muizenberg
+LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:02:00\nTemperature: 15 °C\nPrecipitation: 0.2 mm\nConditions: Partly cloudy\nWind: 1.8 m/s from WNW\nPressure: 1008.5 hPa\n\n08:00\nTemperature: 17 °C\nPrecipitation: 0.2 mm\nConditions: Partly cloudy\nWind: 5.6 m/s from NW\nPressure: 1009.2 hPa\n\n14:00\nTemperature: 18 °C\nPrecipitation: 5.5 mm\nConditions: Heavy rain\nWind: 10.5 m/s from NW\nPressure: 1009.2 hPa\n\n20:00\nTemperature: 16 °C\nPrecipitation: 0.7 mm\nConditions: Light rain showers\nWind: 6.1 m/s from WNW\nPressure: 1010.6 hPa\n\n
-SUMMARY:☔ 18|15 6.6㎜ 10.5⇶
+DESCRIPTION:01:00\nTemperature: 4 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 2.9 m/s from E\nPressure: 1038.9 hPa\n\n07:00\nTemperature: 3 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 3.3 m/s from E\nPressure: 1037.0 hPa\n\n13:00\nTemperature: 9 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 4.3 m/s from E\nPressure: 1035.0 hPa\n\n19:00\nTemperature: 5 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 4.2 m/s from E\nPressure: 1031.9 hPa\n\n
+SUMMARY:☀ 9|3 0㎜ 4.3⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201107
 DTEND;VALUE=DATE:20201108
-DTSTAMP:20201030T050002Z
+DTSTAMP:20201030T101119Z
 UID:Permanent-Weather-20201107-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
-LOCATION:South_Africa, Western_Cape, Muizenberg
+LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:02:00\nTemperature: 14 °C\nPrecipitation: 0.5 mm\nConditions: Light rain showers\nWind: 4.9 m/s from WNW\nPressure: 1012.3 hPa\n\n08:00\nTemperature: 15 °C\nPrecipitation: 0.2 mm\nConditions: Partly cloudy\nWind: 5.9 m/s from W\nPressure: 1015.8 hPa\n\n14:00\nTemperature: 16 °C\nPrecipitation: 0.2 mm\nConditions: Partly cloudy\nWind: 6.0 m/s from W\nPressure: 1018.4 hPa\n\n20:00\nTemperature: 14 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.6 m/s from WSW\nPressure: 1021.1 hPa\n\n
-SUMMARY:☔ 16|14 0.9㎜ 6.0⇶
+DESCRIPTION:01:00\nTemperature: 2 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 3.2 m/s from E\nPressure: 1029.8 hPa\n\n07:00\nTemperature: 1 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 2.8 m/s from E\nPressure: 1026.2 hPa\n\n13:00\nTemperature: 8 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 2.9 m/s from ESE\nPressure: 1023.5 hPa\n\n19:00\nTemperature: 4 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.6 m/s from ESE\nPressure: 1022.7 hPa\n\n
+SUMMARY:☀ 8|1 0㎜ 3.2⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201108
 DTEND;VALUE=DATE:20201109
-DTSTAMP:20201030T050002Z
+DTSTAMP:20201030T101119Z
 UID:Permanent-Weather-20201108-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
-LOCATION:South_Africa, Western_Cape, Muizenberg
+LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:02:00\nTemperature: 13 °C\nPrecipitation: 0.2 mm\nConditions: Partly cloudy\nWind: 1.1 m/s from WSW\nPressure: 1021.5 hPa\n\n
-SUMMARY:☔ 13|13 0.2㎜ 1.1⇶
+DESCRIPTION:01:00\nTemperature: 5 °C\nPrecipitation: 0 mm\nConditions: Cloudy\nWind: 2.2 m/s from SE\nPressure: 1021.9 hPa\n\n
+SUMMARY:☀ 5|5 0㎜ 2.2⇶
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
