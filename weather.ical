@@ -8,24 +8,9 @@ X-WR-CALNAME:Weather
 X-WR-CALDESC:Display yr.no weather forecasts in Google Calendar.
 X-LOTUS-CHARSET:UTF-8
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20201106
-DTEND;VALUE=DATE:20201107
-DTSTAMP:20201106T050002Z
-UID:Permanent-Weather-20201106-20150410T000000Z
-CLASS:PUBLIC
-CREATED:20150410T000000Z
-LOCATION:Netherlands, North_Holland, Amsterdam
-LAST-MODIFIED:20150410T000000Z
-SEQUENCE:0
-STATUS:CONFIRMED
-DESCRIPTION:04:00\nTemperature: 5 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 1.6 m/s from SSW\nPressure: 1035.3 hPa\n\n06:00\nTemperature: 4 °C\nPrecipitation: 0 mm\nConditions: Cloudy\nWind: 1.8 m/s from S\nPressure: 1035.2 hPa\n\n12:00\nTemperature: 10 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.1 m/s from ESE\nPressure: 1034.3 hPa\n\n18:00\nTemperature: 8 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 3.0 m/s from E\nPressure: 1029.9 hPa\n\n
-SUMMARY:☀ 10|4 0㎜ 3.0⇶
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201107
 DTEND;VALUE=DATE:20201108
-DTSTAMP:20201106T050002Z
+DTSTAMP:20201107T050003Z
 UID:Permanent-Weather-20201107-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -33,14 +18,14 @@ LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:00:00\nTemperature: 5 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 2.9 m/s from ESE\nPressure: 1027.2 hPa\n\n06:00\nTemperature: 3 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 2.2 m/s from SSE\nPressure: 1024.6 hPa\n\n12:00\nTemperature: 10 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 1.4 m/s from SSE\nPressure: 1024.6 hPa\n\n18:00\nTemperature: 8 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 2.1 m/s from E\nPressure: 1023.3 hPa\n\n
-SUMMARY:☀ 10|3 0㎜ 2.9⇶
+DESCRIPTION:04:00\nTemperature: 4 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 2.7 m/s from SSE\nPressure: 1024.9 hPa\n\n06:00\nTemperature: 4 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 2.7 m/s from SSE\nPressure: 1024.3 hPa\n\n12:00\nTemperature: 11 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 2.5 m/s from S\nPressure: 1024.2 hPa\n\n18:00\nTemperature: 8 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 2.5 m/s from ESE\nPressure: 1023.0 hPa\n\n
+SUMMARY:☀ 11|4 0㎜ 2.7⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201108
 DTEND;VALUE=DATE:20201109
-DTSTAMP:20201106T050002Z
+DTSTAMP:20201107T050003Z
 UID:Permanent-Weather-20201108-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -48,14 +33,14 @@ LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:00:00\nTemperature: 7 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 2.4 m/s from E\nPressure: 1022.4 hPa\n\n06:00\nTemperature: 5 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 2.5 m/s from SE\nPressure: 1021.5 hPa\n\n12:00\nTemperature: 13 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 3.3 m/s from SSE\nPressure: 1022.3 hPa\n\n19:00\nTemperature: 12 °C\nPrecipitation: 1.1 mm\nConditions: Rain\nWind: 2.4 m/s from S\nPressure: 1022.1 hPa\n\n
-SUMMARY:☔ 13|5 1.1㎜ 3.3⇶
+DESCRIPTION:00:00\nTemperature: 6 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.1 m/s from ESE\nPressure: 1022.8 hPa\n\n06:00\nTemperature: 5 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.0 m/s from ESE\nPressure: 1021.7 hPa\n\n12:00\nTemperature: 12 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 3.2 m/s from SSE\nPressure: 1022.1 hPa\n\n18:00\nTemperature: 11 °C\nPrecipitation: 0.1 mm\nConditions: Cloudy\nWind: 2.8 m/s from SE\nPressure: 1021.4 hPa\n\n
+SUMMARY:☔ 12|5 0.1㎜ 3.2⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201109
 DTEND;VALUE=DATE:20201110
-DTSTAMP:20201106T050002Z
+DTSTAMP:20201107T050003Z
 UID:Permanent-Weather-20201109-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -63,14 +48,14 @@ LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:01:00\nTemperature: 11 °C\nPrecipitation: 2.3 mm\nConditions: Rain\nWind: 2.2 m/s from SSE\nPressure: 1023.4 hPa\n\n07:00\nTemperature: 10 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.0 m/s from SE\nPressure: 1023.6 hPa\n\n13:00\nTemperature: 14 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 2.6 m/s from SSE\nPressure: 1024.5 hPa\n\n19:00\nTemperature: 11 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.3 m/s from SE\nPressure: 1025.3 hPa\n\n
-SUMMARY:☔ 14|10 2.3㎜ 2.6⇶
+DESCRIPTION:00:00\nTemperature: 12 °C\nPrecipitation: 0 mm\nConditions: Cloudy\nWind: 2.4 m/s from S\nPressure: 1022.3 hPa\n\n06:00\nTemperature: 10 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 2.9 m/s from SSE\nPressure: 1021.7 hPa\n\n12:00\nTemperature: 14 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 3.1 m/s from SSE\nPressure: 1022.9 hPa\n\n19:00\nTemperature: 11 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 2.4 m/s from SE\nPressure: 1023.1 hPa\n\n
+SUMMARY:☀ 14|10 0㎜ 3.1⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201110
 DTEND;VALUE=DATE:20201111
-DTSTAMP:20201106T050002Z
+DTSTAMP:20201107T050003Z
 UID:Permanent-Weather-20201110-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -78,14 +63,14 @@ LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:01:00\nTemperature: 8 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 1.8 m/s from SE\nPressure: 1026.2 hPa\n\n07:00\nTemperature: 7 °C\nPrecipitation: 0 mm\nConditions: Cloudy\nWind: 1.9 m/s from ESE\nPressure: 1026.6 hPa\n\n13:00\nTemperature: 12 °C\nPrecipitation: 0.5 mm\nConditions: Light rain\nWind: 2.5 m/s from SE\nPressure: 1027.5 hPa\n\n19:00\nTemperature: 10 °C\nPrecipitation: 4.7 mm\nConditions: Rain\nWind: 2.3 m/s from E\nPressure: 1027.7 hPa\n\n
-SUMMARY:☔ 12|7 5.2㎜ 2.5⇶
+DESCRIPTION:01:00\nTemperature: 9 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.0 m/s from SSE\nPressure: 1023.9 hPa\n\n07:00\nTemperature: 9 °C\nPrecipitation: 1.1 mm\nConditions: Rain\nWind: 2.1 m/s from S\nPressure: 1023.7 hPa\n\n13:00\nTemperature: 12 °C\nPrecipitation: 0.1 mm\nConditions: Partly cloudy\nWind: 2.7 m/s from SSW\nPressure: 1024.6 hPa\n\n19:00\nTemperature: 13 °C\nPrecipitation: 0.2 mm\nConditions: Partly cloudy\nWind: 1.3 m/s from SSW\nPressure: 1024.8 hPa\n\n
+SUMMARY:☔ 13|9 1.4㎜ 2.7⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201111
 DTEND;VALUE=DATE:20201112
-DTSTAMP:20201106T050002Z
+DTSTAMP:20201107T050003Z
 UID:Permanent-Weather-20201111-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -93,14 +78,14 @@ LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:01:00\nTemperature: 8 °C\nPrecipitation: 4.0 mm\nConditions: Rain\nWind: 2.1 m/s from ESE\nPressure: 1027.7 hPa\n\n07:00\nTemperature: 7 °C\nPrecipitation: 0.3 mm\nConditions: Cloudy\nWind: 2.3 m/s from ESE\nPressure: 1027.1 hPa\n\n13:00\nTemperature: 10 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 1.8 m/s from SE\nPressure: 1026.8 hPa\n\n19:00\nTemperature: 7 °C\nPrecipitation: 0 mm\nConditions: Clear sky\nWind: 1.9 m/s from ESE\nPressure: 1026.0 hPa\n\n
-SUMMARY:☔ 10|7 4.3㎜ 2.3⇶
+DESCRIPTION:01:00\nTemperature: 11 °C\nPrecipitation: 0 mm\nConditions: Cloudy\nWind: 2.8 m/s from SSW\nPressure: 1024.8 hPa\n\n07:00\nTemperature: 9 °C\nPrecipitation: 0 mm\nConditions: Cloudy\nWind: 3.0 m/s from SSW\nPressure: 1024.2 hPa\n\n13:00\nTemperature: 11 °C\nPrecipitation: 0.2 mm\nConditions: Cloudy\nWind: 3.5 m/s from S\nPressure: 1023.1 hPa\n\n19:00\nTemperature: 11 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 3.8 m/s from SSE\nPressure: 1020.4 hPa\n\n
+SUMMARY:☔ 11|9 0.2㎜ 3.8⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201112
 DTEND;VALUE=DATE:20201113
-DTSTAMP:20201106T050002Z
+DTSTAMP:20201107T050003Z
 UID:Permanent-Weather-20201112-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -108,14 +93,14 @@ LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:01:00\nTemperature: 4 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.0 m/s from ESE\nPressure: 1025.8 hPa\n\n07:00\nTemperature: 4 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.4 m/s from ESE\nPressure: 1024.9 hPa\n\n13:00\nTemperature: 8 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.8 m/s from E\nPressure: 1024.5 hPa\n\n19:00\nTemperature: 5 °C\nPrecipitation: 0 mm\nConditions: Cloudy\nWind: 4.4 m/s from E\nPressure: 1023.9 hPa\n\n
-SUMMARY:☀ 8|4 0㎜ 4.4⇶
+DESCRIPTION:01:00\nTemperature: 10 °C\nPrecipitation: 0.1 mm\nConditions: Partly cloudy\nWind: 4.4 m/s from SSE\nPressure: 1017.5 hPa\n\n07:00\nTemperature: 10 °C\nPrecipitation: 0.4 mm\nConditions: Partly cloudy\nWind: 5.5 m/s from S\nPressure: 1015.1 hPa\n\n13:00\nTemperature: 13 °C\nPrecipitation: 0.2 mm\nConditions: Partly cloudy\nWind: 5.0 m/s from SW\nPressure: 1018.2 hPa\n\n19:00\nTemperature: 8 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 2.2 m/s from SSW\nPressure: 1021.2 hPa\n\n
+SUMMARY:☔ 13|8 0.7㎜ 5.5⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201113
 DTEND;VALUE=DATE:20201114
-DTSTAMP:20201106T050002Z
+DTSTAMP:20201107T050003Z
 UID:Permanent-Weather-20201113-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -123,14 +108,14 @@ LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:01:00\nTemperature: 4 °C\nPrecipitation: 0 mm\nConditions: Cloudy\nWind: 3.9 m/s from E\nPressure: 1023.6 hPa\n\n07:00\nTemperature: 5 °C\nPrecipitation: 0 mm\nConditions: Cloudy\nWind: 3.5 m/s from E\nPressure: 1022.3 hPa\n\n13:00\nTemperature: 6 °C\nPrecipitation: 0 mm\nConditions: Cloudy\nWind: 3.2 m/s from E\nPressure: 1021.2 hPa\n\n19:00\nTemperature: 6 °C\nPrecipitation: 3.5 mm\nConditions: Rain\nWind: 1.6 m/s from E\nPressure: 1020.4 hPa\n\n
-SUMMARY:☔ 6|4 3.5㎜ 3.9⇶
+DESCRIPTION:01:00\nTemperature: 7 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.6 m/s from S\nPressure: 1022.2 hPa\n\n07:00\nTemperature: 7 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 3.8 m/s from SSE\nPressure: 1020.7 hPa\n\n13:00\nTemperature: 11 °C\nPrecipitation: 1.4 mm\nConditions: Rain\nWind: 4.8 m/s from SSE\nPressure: 1018.3 hPa\n\n19:00\nTemperature: 12 °C\nPrecipitation: 2.0 mm\nConditions: Rain\nWind: 5.4 m/s from S\nPressure: 1015.9 hPa\n\n
+SUMMARY:☔ 12|7 3.4㎜ 5.4⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201114
 DTEND;VALUE=DATE:20201115
-DTSTAMP:20201106T050002Z
+DTSTAMP:20201107T050003Z
 UID:Permanent-Weather-20201114-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -138,14 +123,14 @@ LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:01:00\nTemperature: 7 °C\nPrecipitation: 3.8 mm\nConditions: Rain\nWind: 1.4 m/s from SSW\nPressure: 1021.1 hPa\n\n07:00\nTemperature: 8 °C\nPrecipitation: 0.1 mm\nConditions: Cloudy\nWind: 3.0 m/s from S\nPressure: 1021.6 hPa\n\n13:00\nTemperature: 10 °C\nPrecipitation: 0.3 mm\nConditions: Cloudy\nWind: 3.1 m/s from WSW\nPressure: 1024.6 hPa\n\n19:00\nTemperature: 9 °C\nPrecipitation: 0 mm\nConditions: Cloudy\nWind: 3.2 m/s from WSW\nPressure: 1026.8 hPa\n\n
-SUMMARY:☔ 10|7 4.2㎜ 3.2⇶
+DESCRIPTION:01:00\nTemperature: 12 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 4.2 m/s from WSW\nPressure: 1018.2 hPa\n\n07:00\nTemperature: 9 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.7 m/s from SSW\nPressure: 1021.4 hPa\n\n13:00\nTemperature: 12 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 4.5 m/s from SW\nPressure: 1023.6 hPa\n\n19:00\nTemperature: 9 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.6 m/s from S\nPressure: 1024.1 hPa\n\n
+SUMMARY:☀ 12|9 0㎜ 4.5⇶
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20201115
 DTEND;VALUE=DATE:20201116
-DTSTAMP:20201106T050002Z
+DTSTAMP:20201107T050003Z
 UID:Permanent-Weather-20201115-20150410T000000Z
 CLASS:PUBLIC
 CREATED:20150410T000000Z
@@ -153,8 +138,23 @@ LOCATION:Netherlands, North_Holland, Amsterdam
 LAST-MODIFIED:20150410T000000Z
 SEQUENCE:0
 STATUS:CONFIRMED
-DESCRIPTION:01:00\nTemperature: 7 °C\nPrecipitation: 0.1 mm\nConditions: Cloudy\nWind: 2.3 m/s from S\nPressure: 1027.9 hPa\n\n
-SUMMARY:☔ 7|7 0.1㎜ 2.3⇶
+DESCRIPTION:01:00\nTemperature: 7 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 2.8 m/s from SSE\nPressure: 1024.1 hPa\n\n07:00\nTemperature: 9 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 3.5 m/s from S\nPressure: 1023.2 hPa\n\n13:00\nTemperature: 14 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 4.4 m/s from S\nPressure: 1022.8 hPa\n\n19:00\nTemperature: 11 °C\nPrecipitation: 0 mm\nConditions: Fair\nWind: 3.3 m/s from S\nPressure: 1022.9 hPa\n\n
+SUMMARY:☀ 14|7 0㎜ 4.4⇶
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20201116
+DTEND;VALUE=DATE:20201117
+DTSTAMP:20201107T050003Z
+UID:Permanent-Weather-20201116-20150410T000000Z
+CLASS:PUBLIC
+CREATED:20150410T000000Z
+LOCATION:Netherlands, North_Holland, Amsterdam
+LAST-MODIFIED:20150410T000000Z
+SEQUENCE:0
+STATUS:CONFIRMED
+DESCRIPTION:01:00\nTemperature: 10 °C\nPrecipitation: 0 mm\nConditions: Partly cloudy\nWind: 3.1 m/s from S\nPressure: 1023.7 hPa\n\n
+SUMMARY:☀ 10|10 0㎜ 3.1⇶
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
